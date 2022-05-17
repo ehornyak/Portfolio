@@ -10,6 +10,7 @@ _**Modeling Choice Discussion file** _
 
 Created during Grad School reviewing a previous homework assignment using linear and multpile regression written in R Studio
 
+
 _**Additional Grad School course work included projects and case write ups:**_
 
 How to Initiate a Successful Data Culture   
