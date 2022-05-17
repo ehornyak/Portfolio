@@ -1,5 +1,5 @@
 # Portfolio
-Sample datasets and visualizations
+
 
 **Regional Sales Report:** 
 Data retrieved from data.world:https://data.world/dataman-udit/us-regional-sales-data
@@ -13,7 +13,7 @@ Created during Grad School reviewing a previous homework assignment using linear
 How to Initiate a Successful Data Culture   
 Sustainability and Conservation Products   
 Process Mapping
-Write up on company profile and ways to execute an effective marketing strategy  |  
+Write up on company profile and ways to execute an effective marketing strategy  
 Managerial economics and case studies on organizational behavior and leadership
 
 
