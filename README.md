@@ -14,7 +14,7 @@ Created during Grad School reviewing a previous homework assignment using linear
 _**Additional Grad School course work included projects and case write ups**_
 
 How to Initiate a Successful Data Culture   
-Sustainability and Conservation Products   
+Sustainability and Conservation Projects   
 Process Mapping
 Write up on company profile and ways to execute an effective marketing strategy  
 Managerial economics and case studies on organizational behavior and leadership
